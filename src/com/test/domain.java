@@ -4,6 +4,7 @@ public class domain {
     private String id;
     private String name;
     private String age;
+    private String age1;
     @Override
     public String toString() {
         return "domain{" +
