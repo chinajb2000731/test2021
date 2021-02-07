@@ -3,7 +3,7 @@ package com.test;
 public class domain {
     private String id;
     private String name;
-
+    private String age;
     @Override
     public String toString() {
         return "domain{" +
